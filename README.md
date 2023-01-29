@@ -9,14 +9,3 @@ Besides the above consumer product features, CarDekho.com provides a rich array 
 Our vision is to construct a complete ecosystem for consumers and car manufacturers, dealers and related businesses such that consumers have easy and complete access to not only buying and selling cars, but also manage their entire ownership experience, be it accessories, tyres, batteries, insurance or roadside assistance.
 
 In this project, the dataset contains information about used cars listed on www.cardekho.com. This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
-
-The columns in the given dataset are as follows:
-
-name
-year
-selling_price
-km_driven
-fuel
-seller_type
-transmission
-Owner
